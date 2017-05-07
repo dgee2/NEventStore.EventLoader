@@ -3,6 +3,16 @@
   <PropertyGroup>
     <TargetFramework>netstandard1.6</TargetFramework>
     <RootNamespace>NEventStore.EventLoader</RootNamespace>
+    <VersionPrefix>1.0.1</VersionPrefix>
+    <Authors>Daniel Gee</Authors>
+    <Company />
+    <Product>NEventStore</Product>
+    <Description>This package adds a simple event loader that can be used to orchestrate the loading of events into a domain object</Description>
+    <Copyright>MIT License</Copyright>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/dgee2/NEventStore.EventLoader</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/dgee2/NEventStore.EventLoader</RepositoryUrl>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>

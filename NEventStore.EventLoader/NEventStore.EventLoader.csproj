@@ -13,6 +13,7 @@
     <PackageProjectUrl>https://github.com/dgee2/NEventStore.EventLoader</PackageProjectUrl>
     <RepositoryUrl>https://github.com/dgee2/NEventStore.EventLoader</RepositoryUrl>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
